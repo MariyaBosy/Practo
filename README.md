@@ -1,6 +1,6 @@
 # Assignment Files
 
-##Questions.
+## Questions(Using JavaScript)
 1. Reverse an Array. 
 2. Check if an array is palindrome. 
 3. Fibonacci series for n numbers
