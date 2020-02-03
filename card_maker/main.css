@@ -1,0 +1,57 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    overflow-x: hidden;
+    
+  }
+
+  
+.left {
+    left: 0;
+    background-color:rgba(177, 148, 153, 0.808);
+  }
+  
+  
+  .right {
+    right: 0;
+    background-color:rgb(131, 182, 178);
+  }
+
+  .card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+    width:200px;
+    height:200px;
+    margin-left: 100px;
+    text-align: center;
+  }
+
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  #close
+  {
+    /* position: absolute; */
+    margin-left: 200px;
+  }
+
+#edit
+{position: relative;
+  margin-left:200px ;
+}
+
+#edittext
+  {
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+    width:200px;
+    height:200px;
+    margin-left: 100px;
+    text-align: center;
+  
+}
+
